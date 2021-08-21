@@ -11,4 +11,4 @@ O Frontend web foi feito usando a tecnologia <a href="https://pt-br.reactjs.org/
 
 # Mobile
 
-O Mobile usa a tecnologia <a href="https://facebook.github.io/react-native/">React Native</a> e abstração <a href="https://expo.io/">Expo</a>.
+O Mobile usa a tecnologia <a href="https://facebook.github.io/react-native/">React Native</a>. O aplicativo mobile foi desenvolvido utilizando <a href="https://expo.io/">Expo</a>.
