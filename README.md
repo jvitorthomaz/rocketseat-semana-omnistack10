@@ -1,6 +1,10 @@
 # Semana Omnistack 10 - Rocketseat
  DevRadar - Projeto desenvolvido durante a semana omnistack 10
  
+<p align="center">
+  <img alt="Frontend" src="devradar.png" width="100%">
+</p>
+ 
 # Back-end
 
 API utilizando Node.js.
